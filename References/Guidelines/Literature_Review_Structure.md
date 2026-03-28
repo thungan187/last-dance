@@ -25,3 +25,7 @@ Tuân thủ nguyên tắc "từ rộng đến sâu" theo 6 phần chính:
 ## 6. BPR và TAM (Chuyển đổi số và Hành vi)
 - **BPR (Business Process Reengineering):** Việc áp dụng hệ thống mới thay đổi bản chất quy trình cũ (Tái thiết kế quy trình). *(Tác giả: Hammer & Champy)*.
 - **TAM (Technology Acceptance Model):** Mô hình sự chấp nhận công nghệ hiện đại. Cần xem xét khía cạnh nhân sự/lãnh đạo đối mặt với sự bất tiện, trải nghiệm (Perceived Ease of Use & Perceived Usefulness). *(Tác giả: Fred Davis)*.
+
+## 7. Business Intelligence (BI) & Data Visualization trong HRM
+- **Phân tích:** Tầm quan trọng của việc chuyển từ báo cáo tính toán thủ công sang trực quan hóa dữ liệu (Data-driven decisions). BI cung cấp Dashboard phân tích thời gian thực giúp Ban Lãnh đạo ra quyết định chiến lược (tuyển dụng, chi phí, hiệu suất) chính xác và nhanh chóng. Odoo tích hợp sẵn các biểu đồ Dashboard hiện đại.
+- **Tài liệu tham khảo:** Báo cáo xu hướng HR Tech (Deloitte, PwC), nghiên cứu về Power BI trong tối ưu hóa hoạt động nhân sự.
